@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/486e843b-d7e1-4b89-a131-43862682087e/resourceGroups/odev3ResourceGroup/providers/Microsoft.Web/sites/gorkemtemizodev3",
+    "appService.deploySubpath": ""
+}

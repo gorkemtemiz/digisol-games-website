@@ -1,0 +1,14 @@
+{
+    "name": "web-odev",
+    "description": "",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@angular-devkit/build-angular": "^0.13.9"
+    }
+}
