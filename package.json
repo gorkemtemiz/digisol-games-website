@@ -9,6 +9,6 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "@angular-devkit/build-angular": "^0.13.9"
+        "@angular-devkit/build-angular": "^15.0.4"
     }
 }
